@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FindingFalcone</string>
+    <string name="btn_start_again">Start Again</string>
+    <string name="find_falcone">Find Falcone!</string>
+    <string name="api_error_message">Something went wrong at your end!</string>
+</resources>
